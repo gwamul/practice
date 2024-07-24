@@ -1,0 +1,1 @@
+{"name":"Local: 2162선분그룹","url":"d:\\2024년 여름방학\\practice\\백준\\플래티넘\\2162선분그룹.cpp","tests":[{"id":1721036800698,"input":"3\n-1 -1 1 1\n-2 -2 2 2\n0 1 -1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\2024년 여름방학\\practice\\백준\\플래티넘\\2162선분그룹.cpp","group":"local","local":true}
